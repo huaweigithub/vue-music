@@ -61,6 +61,8 @@ export default {
           speed: 400
         },
       })
+
+      console.log('this.slider',this.slider)
     }
   }
 }
